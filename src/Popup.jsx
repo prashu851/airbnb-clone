@@ -8,7 +8,7 @@ const Popup = () => {
             {showPopup ?
 
                 <div class="popup">
-                    <p>This website is built with dummy data for learning purpose</p>
+                    <p>This website is built with dummy data, has no relation with Blockchain and purely built by me for learning purpose</p>
                     <button class="ok-btn" onClick={() => setShowPopup(false)}>OK</button>
                 </div>
                 :
