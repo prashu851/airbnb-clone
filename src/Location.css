@@ -1,0 +1,51 @@
+.location-info-container {
+    width: 100%;
+    height: 100%;
+}
+.location-pic {
+    width: 100%;
+    height: 250px;
+}
+.location-info-container img {
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+    object-fit: cover;
+}
+.loc-name-rating {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+.loc-name-rating h4 {
+    margin: 0;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+}
+.rating {
+    display: flex;
+    align-items: center;
+}
+.rating svg {
+    margin-right: 0.25rem;
+}
+.distance{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start
+}
+.loc-distance,.date {
+    color: #717171;
+    margin-top: 0.5rem;
+    font-size: 15px;
+} 
+.price {
+    font-weight: 600;
+    font-size: 15px;
+    margin-top: 0.5rem;
+}
+.price span{
+    font-weight: 400;
+}

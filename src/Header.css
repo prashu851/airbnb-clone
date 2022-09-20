@@ -1,0 +1,251 @@
+.app-logo {
+    color: #ff385c;
+}
+
+.MuiButton-root.menu-btn {
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    border: 1px solid #DDDDDD;
+    padding: 5px 5px 5px 12px;
+    background-color: white;
+    cursor: pointer;
+    outline: none;
+}
+
+.MuiButton-root.menu-btn:hover {
+    border: none !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.18) !important;
+    transition: box-shadow 0.2s ease;
+    background-color: white;
+}
+
+.host-section {
+    display: flex;
+    align-items: center;
+
+}
+
+.MuiButton-text.host-btn {
+    margin-right: 5px;
+    border-radius: 25px;
+    color: #474c52;
+    font-weight: 600;
+    text-transform: none;
+    font-size: 14px
+}
+
+.language-btn {
+    cursor: pointer;
+    margin-right: 1rem;
+    background: transparent;
+    border-radius: 50%;
+    border: none;
+    padding: 1rem;
+}
+
+.language-btn:hover {
+    background-color: #DDDDDD;
+}
+
+.tabs {
+    text-transform: none;
+}
+
+.tabs svg {
+    fill: #474c52;
+}
+
+.MuiToolbar-root {
+    display: flex;
+    justify-content: space-between
+}
+
+.search-area {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    cursor: pointer;
+    padding: 0.25rem;
+    border-radius: 50px;
+    /* border:1px solid #DDDDDD; */
+    /* box-shadow:0 1px 2px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 5%) */
+}
+
+.select-loc {
+    width: 50%;
+}
+
+.clear-btn {
+    border: none;
+    outline: none;
+    background-color: #1266F1;
+    border-radius: 50px;
+    padding: 1rem;
+    cursor: pointer;
+    margin-left: 0.75rem;
+}
+
+.search-btn {
+    border: none;
+    outline: none;
+    background-color: #F93154;
+    border-radius: 50px;
+    padding: 1rem;
+    cursor: pointer;
+    margin-left: 0.75rem;
+}
+
+.MuiOutlinedInput-root {
+    border-radius: 50px !important;
+    border: none !important;
+    outline: none !important;
+}
+
+.MuiButton-text.anywhere-btn,
+.MuiButton-text.anyweek-btn,
+.MuiButton-text.guests-btn {
+    text-transform: none;
+    border-radius: 0;
+}
+
+.MuiButton-text.anywhere-btn:hover,
+.MuiButton-text.anyweek-btn:hover,
+.MuiButton-text.guests-btn:hover {
+    background-color: transparent
+}
+
+.MuiButton-text.anywhere-btn {
+    border-right: 1px solid #DDDDDD;
+    color: #474c52;
+    font-weight: 600
+}
+
+.MuiButton-text.anyweek-btn {
+    border-right: 1px solid #DDDDDD;
+    color: #474c52;
+    font-weight: 600
+}
+
+.MuiButton-text.guests-btn {
+    color: #717171;
+}
+
+.MuiButton-endIcon .search-icon {
+    fill: white;
+    background-color: #ff385c;
+    border-radius: 25px;
+    padding: 5px
+}
+
+.filter-btn {
+    display: flex;
+    background: transparent;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    height: 3rem;
+    width: 7.5rem;
+    padding: 0.75rem;
+    border: 1px solid #DDDDDD;
+    border-radius: 10px;
+}
+
+.css-ptiqhd-MuiSvgIcon-root {
+    border: 0.5px solid rgb(0 0 0 / 0.3);
+    border-radius: 50%;
+    padding: 0.25rem;
+}
+
+.css-ptiqhd-MuiSvgIcon-root:hover {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.18);
+    transition: box-shadow 0.2s ease;
+}
+
+.MuiButtonBase-root {
+    text-transform: none;
+    font-size: 12px;
+    font-weight: 16px;
+}
+
+.MuiTabs-flexContainer {
+    gap: 2.5rem
+}
+
+.MuiTab-root {
+    padding: 0 !important;
+    opacity: 0.7;
+    min-width: auto !important;
+    font-weight: 500 !important;
+}
+
+.MuiTab-root:hover {
+    border-bottom: 2px solid black;
+    opacity: 1;
+}
+
+.MuiTab-root.Mui-selected {
+    opacity: 1 !important;
+}
+
+.inactive {
+    width: 100%;
+    margin: 0 auto;
+    top: 0;
+    position: absolute;
+    transform: scale(0);
+    transition: transform 0.5s ease;
+    color: black;
+}
+
+.active {
+    position: absolute;
+    width: 100%;
+    margin: 0 auto;
+    z-index: 100;
+    transform: scale(0.7) translate(0, 100%);
+    transition: transform 0.5s ease;
+    color: black;
+    background: white;
+    overflow: hidden;
+}
+
+.tabs-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 5rem;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.tabs-container a {
+    font-size: 26px;
+    margin: 0 1rem;
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+}
+
+.tabs-container a:after {
+    display: block;
+    content: '';
+    margin-top: 0.5rem;
+    border-bottom: solid 2px black;
+    transform: scaleX(0);
+    transition: transform 250ms ease-in;
+}
+
+.tabs-container a:hover:after {
+    transform: scaleX(1);
+
+}
+
+.tabs-container a:focus {
+    border-bottom: 2px solid black;
+}
+
+.tabs-container a:focus:hover:after {
+    border-bottom: none;
+}

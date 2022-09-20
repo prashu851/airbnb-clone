@@ -1,0 +1,148 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 2.75rem;
+    position: fixed;
+    bottom: 0;
+    border-top: 1px solid #DDDDDD;
+    padding: 0 5rem;
+    right: 0;
+    left: 0;
+    background-color: white;
+}
+
+.site-info {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.support-info {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.footer-text {
+    font-size: 15px;
+    cursor: pointer;
+
+}
+
+.footer-text:hover {
+    text-decoration: underline;
+}
+
+.dot {
+    padding: 0.4rem;
+    text-align: center;
+}
+
+.lang-btn {
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    margin-right: 1rem;
+}
+
+.lang-btn svg {
+    margin-right: 0.5rem;
+}
+
+.support-btn {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    background: transparent;
+    border: none;
+    margin-left: 1rem;
+    font-size: 15px;
+}
+
+.support-btn:hover {
+    text-decoration: underline;
+}
+
+.support-btn svg {
+    margin-left: 0.5rem;
+}
+
+.MuiDrawer-paper {
+    border-radius: 15px;
+}
+
+.close-btn {
+    float: left;
+    margin-top: 0.75rem;
+    margin-left: 0.75rem;
+}
+
+.drawer-info {
+    display: flex;
+    padding: 0 2rem 3rem;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+
+.section-heading {
+    margin: 0;
+    padding-bottom: 0.5rem;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    padding: 0.5rem 0;
+}
+
+li:hover {
+    text-decoration: underline;
+}
+
+.smallview-content {
+    display: none;
+}
+
+@media screen and (max-width:1128px) {
+    .largeview-content {
+        display: none;
+    }
+
+    .smallview-content {
+        display: block;
+        width: 100%;
+    }
+
+    .support-section,
+    .community-section,
+    .hosting-section,
+    .airbnb-section {
+        width: 100%;
+        padding: 1.5rem 0;
+    }
+
+    .drawer-info {
+        flex-direction: column;
+        padding: 0 1rem 2rem;
+    }
+
+    ul {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+    }
+
+    li {
+        flex-basis: 33.33% !important;
+    }
+
+}

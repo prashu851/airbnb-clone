@@ -1,0 +1,31 @@
+.popup {
+    display: block;
+    position: fixed;
+    background-color: #ffffff;
+    width:400px;
+    padding: 2rem;
+    border-radius:0.5rem;
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+    top: 30%;
+    z-index: 10;
+    text-align: center;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.popup p {
+    font-weight: bold;
+    font-size: 2rem;
+   
+}
+.ok-btn {
+    padding: 0.25rem 1rem;
+  margin: auto;
+    background-color: #0c6cf2;
+    color: #ffffff;
+    border: none;
+    outline: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+}

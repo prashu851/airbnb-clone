@@ -1,0 +1,204 @@
+{
+    "locationsData":[
+    {
+        "id":1,
+        "locationUrl":"https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg?im_w=720",
+        "locationName":"Abiansemal, Indonesia",
+        "country":"Indonesia",
+        "rating":"4.87",
+        "locationDistance":"4,963 kilometres",
+        "availableDate":"26-31 Mar",
+        "price":26967
+    },
+    {
+        "id":2,
+        "locationUrl":"https://a0.muscache.com/im/pictures/11bd9fc9-4ca9-4208-b449-bdc63a1969b9.jpg?im_w=720",
+        "locationName":"Abiansemal, Indonesia",
+        "country":"Indonesia",
+        "rating":"5.0",
+        "locationDistance":"4,963 kilometres",
+        "availableDate":"7-12 Jan",
+        "price":95178
+    },
+    {
+        "id":3,
+        "locationUrl":"https://a0.muscache.com/im/pictures/d0e3bb05-a96a-45cf-af92-980269168096.jpg?im_w=720",
+        "locationName":"Sindun-myeon, Icheon-si, South Korea",
+        "country":"South korea",
+        "rating":"4.82",
+        "locationDistance":"5,244 kilometres",
+        "availableDate":"3-8 Sep",
+        "price":6557
+    },
+    {
+        "id":4,
+        "locationUrl":"https://a0.muscache.com/im/pictures/448bee34-7416-4262-a02f-b39e29d7ce4f.jpg?im_w=720",
+        "locationName":"Tambon Nong Kae, Thailand",
+        "country":"Thailand",
+        "rating":"4.94",
+        "locationDistance":"4,963 kilometres",
+        "availableDate":"21-26 Aug",
+        "price":8961
+    },
+    {
+        "id":5,
+        "locationUrl":"https://a0.muscache.com/im/pictures/miso/Hosting-36165132/original/64a7e292-1cf6-4653-a6e3-75dd196038b7.jpeg?im_w=720",
+        "locationName":"Selat, Indonesia",
+        "country":"Indonesia",
+        "rating":"4.9",
+        "locationDistance":"4,979 kilometres",
+        "availableDate":"25-30 Jan",
+        "price":18806
+    },
+    {
+        "id":6,
+        "locationUrl":"https://a0.muscache.com/im/pictures/4b0af8ea-007e-48e9-b098-527ff46d4daf.jpg?im_w=720",
+        "locationName":"Pemenang, Indonesia",
+        "country":"Indonesia",
+        "rating":"4.63",
+        "locationDistance":"5,028 kilometres",
+        "availableDate":"19-24 Aug",
+        "price":13433
+    },
+    {
+        "id":7,
+        "locationUrl":"https://a0.muscache.com/im/pictures/6d4b8668-20d2-4c45-8de6-4378d7bf9239.jpg?im_w=720",
+        "locationName":"Uluwatu, Indonesia",
+        "country":"Indonesia",
+        "rating":"4.78",
+        "locationDistance":"4,970 kilometres",
+        "availableDate":"6-11 Sep",
+        "price":15313
+    },
+    {
+        "id":8,
+        "locationUrl":"https://a0.muscache.com/im/pictures/3648aed7-f383-4b74-ab5d-f444e20a85f2.jpg?im_w=720",
+        "locationName":"El Nido, Philippines",
+        "country":"Philippines",
+        "rating":"4.72",
+        "locationDistance":"4,455 kilometres",
+        "availableDate":"19-25 Aug",
+        "price":12664
+    },
+    {
+        "id":9,
+        "locationUrl":"https://a0.muscache.com/im/pictures/113bd9ea-b92c-4ab1-81cd-13825260e442.jpg?im_w=720",
+        "locationName":"Thành phố Nha Trang, Vietnam",
+        "country":"Vietnam",
+        "rating":"5.0",
+        "locationDistance":"3,351 kilometres",
+        "availableDate":"28-4 Sep",
+        "price":98641
+    },
+    {
+        "id":10,
+        "locationUrl":"https://a0.muscache.com/im/pictures/a77b1c22-96cf-4ac0-a430-b5572c15df8a.jpg?im_w=720",
+        "locationName":"Mueang Chiang Mai District, Thailand",
+        "country":"Thailand",
+        "rating":"4.87",
+        "locationDistance":"2,172 kilometres",
+        "availableDate":"18-25 Aug",
+        "price":1156
+    },
+    {
+        "id":11,
+        "locationUrl":"https://a0.muscache.com/im/pictures/f6c46cce-0c0b-4ebc-ba01-3cce16527978.jpg?im_w=720",
+        "locationName":"Tambon Chang Phueak, Thailand",
+        "country":"Thailand",
+        "rating":"4.74",
+        "locationDistance":"2,172 kilometres",
+        "availableDate":"22-29 Aug",
+        "price":3961
+    },
+    {
+        "id":12,
+        "locationUrl":"https://a0.muscache.com/im/pictures/7a83743c-b733-482a-aa4a-aa28e3fa9469.jpg?im_w=720",
+        "locationName":"Thung Samo, Thailand",
+        "country":"Thailand",
+        "rating":"5.0",
+        "locationDistance":"2,399 kilometres",
+        "availableDate":"18-23 Aug",
+        "price":51094
+    },
+    {
+        "id":13,
+        "locationUrl":"https://a0.muscache.com/im/pictures/miso/Hosting-52068342/original/a02a7d4d-a1bc-418f-a6de-970d41beade0.jpeg?im_w=720",
+        "locationName":"Chittorgarh, India",
+        "country":"India",
+        "rating":"4.82",
+        "locationDistance":"924 kilometres",
+        "availableDate":"17-22 Aug",
+        "price":3840
+    },
+    {
+        "id":14,
+        "locationUrl":"https://a0.muscache.com/im/pictures/prohost-api/Hosting-558880390132477324/original/a55caef0-3f9b-4394-a1c0-0a1188356d97.jpeg?im_w=720",
+        "locationName":"Buk-myeon, Gapyeong-gun, South Korea",
+        "country":"South korea",
+        "rating":"4.94",
+        "locationDistance":"5,261 kilometres",
+        "availableDate":"3-8 Sep",
+        "price":20226
+    },
+    {
+        "id":15,
+        "locationUrl":"https://a0.muscache.com/im/pictures/6b272f9e-14f7-4f2f-a5ae-897c9ed0fe58.jpg?im_w=720",
+        "locationName":"Alor Gajah, Malaysia",
+        "country":"Malaysia",
+        "rating":"4.73",
+        "locationDistance":"3,078 kilometres",
+        "availableDate":"3-8 Apr",
+        "price":34452
+    },
+    {
+        "id":16,
+        "locationUrl":"https://a0.muscache.com/im/pictures/4f70b681-a792-4530-8c52-f2a8d262942d.jpg?im_w=720",
+        "locationName":"Sidemen, Indonesia",
+        "country":"Indonesia",
+        "rating":"4.85",
+        "locationDistance":"4,977 kilometres",
+        "availableDate":"4-9 Dec",
+        "price":29109
+    },
+    {
+        "id":17,
+        "locationUrl":"https://a0.muscache.com/im/pictures/miso/Hosting-744971/original/709ee149-996f-467d-af13-46fb5c20df74.jpeg?im_w=720",
+        "locationName":"Ubud, Indonesia",
+        "country":"Indonesia",
+        "rating":"4.65",
+        "locationDistance":"4,964 kilometres",
+        "availableDate":"8-13 Oct",
+        "price":5883
+    },
+    {
+        "id":18,
+        "locationUrl":"https://a0.muscache.com/im/pictures/miso/Hosting-22285259/original/a8013c81-e598-4708-8c2a-2692676a5717.jpeg?im_w=720",
+        "locationName":"Mueang Chiang Mai District, Thailand",
+        "country":"Thailand",
+        "rating":"4.83",
+        "locationDistance":"2,172 kilometres",
+        "availableDate":"21-26 Aug",
+        "price":1262
+    },
+    {
+        "id":19,
+        "locationUrl":"https://a0.muscache.com/im/pictures/miso/Hosting-620445832431796074/original/822e6e0a-6209-43e4-b84d-78cbcbeab16d.jpeg?im_w=720",
+        "locationName":"Penabal, Indonesia",
+        "country":"Indonesia",
+        "rating":"4.9",
+        "locationDistance":"4,945 kilometres",
+        "availableDate":"24-29 Aug",
+        "price":9508
+    },
+    {
+        "id":20,
+        "locationUrl":"https://a0.muscache.com/im/pictures/7d2be0b7-5371-4342-8623-7b3b06053393.jpg?im_w=720",
+        "locationName":"Tanay, Philippines",
+        "country":"Philippines",
+        "rating":"4.82",
+        "locationDistance":"4,591 kilometres",
+        "availableDate":"21-27 Aug",
+        "price":8923
+    }
+]
+}
